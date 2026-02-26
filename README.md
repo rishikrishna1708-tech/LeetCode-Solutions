@@ -9,7 +9,7 @@ This repository contains my daily LeetCode solutions in C.
 70 Days LeetCode Challenge
 
 ## Progress
-- Day 1 ✅- Day 31 ✅
+- Day 1 ✅- Day 37 ✅
 
 ## Goal
 - Improve problem solving skills
